@@ -1,0 +1,8 @@
+.video {
+  margin: 2% auto !important;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
