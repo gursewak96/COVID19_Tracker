@@ -1,5 +1,15 @@
 # COVID-19 Tracker
 
+Application to track the number of confirmed, recovered and deaths cases all over the globe. One can even see data of one specific country.
+
+## Technology Used
+
+- ReactJS
+- Redux
+- Material UI
+
+Check out the project [covid19.letsdiscover.in](https://covid19.letsdiscover.in)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
