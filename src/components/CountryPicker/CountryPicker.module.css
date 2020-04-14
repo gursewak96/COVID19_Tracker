@@ -1,0 +1,15 @@
+.formControl {
+  width: 80%;
+  margin-bottom: 30px !important;
+  padding: 10px !important;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+@media (max-width: 770px) {
+  .formControl {
+    width: 100%;
+  }
+}
