@@ -1,0 +1,10 @@
+.video {
+  margin: 2% auto !important;
+}
+
+@media (max-width: 770px) {
+  .video {
+    width: 100%;
+    margin: 5% auto !important;
+  }
+}

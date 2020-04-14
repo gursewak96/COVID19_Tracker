@@ -1,13 +1,19 @@
 import React from "react";
 import { connect } from "react-redux";
 import styles from "./Cards.module.css";
-import { Card, CardContent, Typography, Grid } from "@material-ui/core";
+import {
+  Card,
+  CardContent,
+  Typography,
+  Grid,
+  LinearProgress,
+} from "@material-ui/core";
 import CountUp from "react-countup";
 import cx from "classnames";
 
 function Cards({ data: { confirmed, recovered, deaths, lastUpdate } }) {
   if (!confirmed) {
-    return <div>Loading...</div>;
+    return <LinearProgress />;
   }
   console.log(lastUpdate);
   return (

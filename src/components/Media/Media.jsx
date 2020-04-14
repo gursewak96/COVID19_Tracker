@@ -1,12 +1,11 @@
 import React from "react";
-import { Card, CardMedia } from "@material-ui/core";
 import video from "../../videos/covid19.mp4";
-
+import style from "./Media.module.css";
 function Media() {
   return (
-    <Card>
-      <CardMedia src={video} />
-    </Card>
+    <video autoplay="" controls loop width="80%" className={style.video}>
+      <source src={video} type="video/mp4" />
+    </video>
   );
 }
 
