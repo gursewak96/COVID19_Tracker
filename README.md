@@ -7,6 +7,7 @@ Application to track the number of confirmed, recovered and deaths cases all ove
 - ReactJS
 - Redux
 - Material UI
+- Axios
 
 Check out the project [covid19.letsdiscover.in](https://covid19.letsdiscover.in)
 
