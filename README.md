@@ -11,6 +11,11 @@
 - [Material UI](https://material-ui.com) - User Interface library
 - [Axios](https://github.com/axios/axios) - Library used to make HTTP requests
 
+## Author
+
+- **Gursewak Singh** [LinkedIn](https://www.linkedin.com/in/gursewak-singh-ai-2019/)
+  > Author Portfolio: [gursewak.letsdiscover.in](http://gursewak.letsdiscover.in)
+
 Check out the project [covid19.letsdiscover.in](https://covid19.letsdiscover.in)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
