@@ -1,13 +1,15 @@
 # COVID-19 Tracker
 
-Application to track the number of confirmed, recovered and deaths cases all over the globe. One can even see data of one specific country.
+![Covid-19 Tracker](covid.gif)
 
-## Technology Used
+> Application to track the number of confirmed, recovered and deaths cases all over the globe. One can even see data of one specific country.
 
-- ReactJS
-- Redux
-- Material UI
-- Axios
+## Built With
+
+- [ReactJs](https://reactjs.org/) - The Library used
+- [Redux](https://redux.js.org/) - The state management library
+- [Material UI](https://material-ui.com) - User Interface library
+- [Axios](https://github.com/axios/axios) - Library used to make HTTP requests
 
 Check out the project [covid19.letsdiscover.in](https://covid19.letsdiscover.in)
 
