@@ -3,6 +3,7 @@
 ![Covid-19 Tracker](covid.gif)
 
 > Application to track the number of confirmed, recovered and deaths cases all over the globe. One can even see data of one specific country.
+> Check out the project at [covid19.letsdiscover.in](https://covid19.letsdiscover.in)
 
 ## Built With
 
@@ -13,10 +14,9 @@
 
 ## Author
 
-- **Gursewak Singh** [LinkedIn](https://www.linkedin.com/in/gursewak-singh-ai-2019/)
-  > Author Portfolio: [gursewak.letsdiscover.in](http://gursewak.letsdiscover.in)
-
-Check out the project [covid19.letsdiscover.in](https://covid19.letsdiscover.in)
+- **Gursewak Singh**
+  [LinkedIn](https://www.linkedin.com/in/gursewak-singh-ai-2019/)
+  [Portfolio](http://gursewak.letsdiscover.in)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
