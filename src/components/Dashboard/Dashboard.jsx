@@ -3,8 +3,9 @@ import { Cards, Charts, CountryPicker } from "../index";
 function Dashboard() {
   return (
     <div>
-      <Cards />
       <CountryPicker />
+      <Cards />
+
       <Charts />
     </div>
   );

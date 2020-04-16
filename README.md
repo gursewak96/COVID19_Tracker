@@ -15,9 +15,7 @@
 ## Author
 
 - **Gursewak Singh**
-  [LinkedIn](https://www.linkedin.com/in/gursewak-singh-ai-2019/)
-  [Portfolio](http://gursewak.letsdiscover.in)
-  Full Stack Web developer
+  Check out my [LinkedIn](https://www.linkedin.com/in/gursewak-singh-ai-2019/) profile and my [Portfolio](http://gursewak.letsdiscover.in) for more information.
 
 ## Available Scripts
 

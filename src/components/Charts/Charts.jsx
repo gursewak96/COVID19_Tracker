@@ -5,7 +5,6 @@ import styles from "./Charts.module.css";
 import { connect } from "react-redux";
 
 function Charts({ country, data: { confirmed, recovered, deaths } }) {
-  console.log(confirmed, recovered, deaths);
   const [dailyData, setDailyData] = useState({});
 
   useEffect(() => {

@@ -28,6 +28,14 @@ function Nav() {
                   Info
                 </NavLink>
               </Button>
+              <Button color="inherit">
+                <a
+                  className={styles.link}
+                  href="http://gursewak.letsdiscover.in"
+                >
+                  Contact
+                </a>
+              </Button>
             </div>
           </Grid>
         </Grid>

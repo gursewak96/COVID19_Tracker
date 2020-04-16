@@ -15,7 +15,6 @@ function Cards({ data: { confirmed, recovered, deaths, lastUpdate } }) {
   if (!confirmed) {
     return <LinearProgress />;
   }
-  console.log(lastUpdate);
   return (
     <div className={styles.container}>
       <Grid container spacing={3} justify="center">

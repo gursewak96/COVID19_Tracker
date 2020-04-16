@@ -8,7 +8,6 @@ import { BrowserRouter, Route, Switch } from "react-router-dom";
 
 class App extends Component {
   componentDidMount() {
-    console.log(this.props);
     this.props.fetchData();
   }
   render() {

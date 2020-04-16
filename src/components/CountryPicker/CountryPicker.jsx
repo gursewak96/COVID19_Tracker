@@ -5,7 +5,6 @@ import { fetchData } from "../../redux";
 import styles from "./CountryPicker.module.css";
 import { connect } from "react-redux";
 function CountryPicker(props) {
-  console.log(props);
   const [fetchedCountries, setFetchCountries] = useState([]);
   useEffect(() => {
     const fetchAPI = async () => {
@@ -13,7 +12,6 @@ function CountryPicker(props) {
     };
     fetchAPI();
   }, [setFetchCountries]);
-  console.log(fetchedCountries);
   return (
     <div className={styles.container}>
       <FormControl className={styles.formControl}>
